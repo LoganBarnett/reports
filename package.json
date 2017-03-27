@@ -1,0 +1,17 @@
+{
+  "name": "reports",
+  "version": "1.0.0",
+  "description": "reporting tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reporting"
+  ],
+  "author": "Logan Barnett (logustus@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.7.4"
+  }
+}
